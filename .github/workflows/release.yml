@@ -60,6 +60,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./patchnotes.txt
-        asset_name: patchnotes.txt
-        asset_content_type: text/plain
+        asset_path: ./patchnotes.html
+        asset_name: patchnotes.html
+        asset_content_type: text/html

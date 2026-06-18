@@ -2,7 +2,7 @@
     {
         "ident" : "pd2_joy_mask_fix",
         "hash" : "%HASH%",
-        "patchnotes_url" : "https://github.com/LarryTheFr0g/PD2JoyMaskFix/releases/download/latest/patchnotes.txt",
+        "patchnotes_url" : "https://github.com/LarryTheFr0g/PD2JoyMaskFix/releases/download/latest/patchnotes.html",
         "download_url" : "https://github.com/LarryTheFr0g/PD2JoyMaskFix/releases/download/latest/JoyMaskClippingFix.zip"
     }
 ]
