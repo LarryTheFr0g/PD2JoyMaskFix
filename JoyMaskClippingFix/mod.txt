@@ -3,7 +3,7 @@
     "description": "Adds/adjusts mask offsets so Joys hair stops clipping trough masks.",
     "author": "LarryTheFrog",
 	"image": "icon.png"
-    "version": "1.0",
+    "version": "1.1",
     "hooks": [
         {
             "hook_id": "lib/tweak_data/blackmarkettweakdata",
@@ -16,7 +16,7 @@
     "host": {
       "meta": "https://github.com/LarryTheFr0g/PD2JoyMaskFix/releases/download/latest/meta.json",
       "download": "https://github.com/LarryTheFr0g/PD2JoyMaskFix/releases/download/latest/JoyMaskClippingFix.zip",
-      "patchnotes": "https://example.com/patchnotes.html"
+      "patchnotes": "https://github.com/LarryTheFr0g/PD2JoyMaskFix/releases/download/latest/patchnotes.txt"
     }
   }
 ]
