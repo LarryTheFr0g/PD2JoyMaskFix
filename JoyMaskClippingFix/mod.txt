@@ -14,8 +14,8 @@
   {
     "identifier" : "pd2_joy_mask_fix",
     "host": {
-      "meta": "https://example.com/my_meta.json",
-      "download": "https://example.com/download.zip",
+      "meta": "https://github.com/LarryTheFr0g/PD2JoyMaskFix/releases/download/latest/meta.json",
+      "download": "https://github.com/LarryTheFr0g/PD2JoyMaskFix/releases/download/latest/JoyMaskClippingFix.zip",
       "patchnotes": "https://example.com/patchnotes.html"
     }
   }
