@@ -16,7 +16,7 @@
     "host": {
       "meta": "https://github.com/LarryTheFr0g/PD2JoyMaskFix/releases/download/latest/meta.json",
       "download": "https://github.com/LarryTheFr0g/PD2JoyMaskFix/releases/download/latest/JoyMaskClippingFix.zip",
-      "patchnotes": "https://github.com/LarryTheFr0g/PD2JoyMaskFix/releases/download/latest/patchnotes.txt"
+      "patchnotes": "https://larrythefr0g.github.io/web/patchnotes.html"
     }
   }
 ]
