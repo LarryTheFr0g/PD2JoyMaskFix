@@ -1,0 +1,23 @@
+{
+    "name": "Joy Mask Clipping fix",
+    "description": "Adds/Adjusts mask offsets so Joys hair stops clipping trough masks.",
+    "author": "LarryTheFrog",
+	"image": "icon.png"
+    "version": "1.0",
+    "hooks": [
+        {
+            "hook_id": "lib/tweak_data/blackmarkettweakdata",
+            "script_path": "hide_hair.lua"
+        }
+    ]
+	"updates" : [
+  {
+    "identifier" : "pd2_joy_mask_fix",
+    "host": {
+      "meta": "https://example.com/my_meta.json",
+      "download": "https://example.com/download.zip",
+      "patchnotes": "https://example.com/patchnotes.html"
+    }
+  }
+]
+}
