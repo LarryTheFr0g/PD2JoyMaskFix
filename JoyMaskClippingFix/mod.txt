@@ -1,5 +1,5 @@
 {
-    "name": "Joy Mask Clipping fix",
+    "name": "Joy mask clipping fix",
     "description": "Adds/Adjusts mask offsets so Joys hair stops clipping trough masks.",
     "author": "LarryTheFrog",
 	"image": "icon.png"
