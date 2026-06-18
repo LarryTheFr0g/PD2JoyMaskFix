@@ -9,6 +9,7 @@ Hooks:PostHook(BlackMarketTweakData, "init", "joy_custom_mask_config_manager", f
         oni 		 = Vector3(0, 0.65, 0.31),
         dallas_clean = Vector3(0, 0, 0.554498), -- dallas OG mask has the offsets, we use those since this mask is shaped the same
 		cloth_commander = Vector3(0, 0, 0.554498),
+		skull = Vector3(0, 0, 0.554498),
     }
 
 
